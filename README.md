@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Egliod
-- 👀 I’m interested in teslas
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Teslas
+- 🌱 I’m currently learning Svelte
 - 📫 egliod on Discord
 
 <!---
