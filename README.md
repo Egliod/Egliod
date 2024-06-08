@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Egliod
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning React and Next.js
+- 🌱 I’m currently learning React, Next.js and Tailwind CSS
 - 📫 egliod on Discord
 
 <!---
